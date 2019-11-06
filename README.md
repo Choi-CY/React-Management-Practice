@@ -1,3 +1,7 @@
+## Management System 
+해당 프로젝트는 React native 연습을 위한 프로젝트 입니다. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
